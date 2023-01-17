@@ -11,3 +11,5 @@ collections:
     output: true
     permalink: "/:collection/:title/"
     sort_by: title
+# To enable the retreat sections toggle the comment of retreat_enabled
+# retreat_enabled: true

@@ -1,12 +1,12 @@
 
-number:       87
-title:        Human After All
-date:         2026-07-23T20:15:00+02:00
-live:         true
+number:       88
+title:        Coming soon! 🏖
+date:         2026-09-30T20:15:00+02:00
+live:         false
 
-background:   /assets/images/graphics/header.jpg
+background:   /assets/images/graphics/header-fallback.jpg
 
-ticket_link:  https://tinyurl.com/speck87
+ticket_link:  null
 info_link:    https://t.me/speckandtech
 
 location:
